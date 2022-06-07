@@ -10,4 +10,4 @@ function dados(){
     document.getElementById("endereco").innerText = data.endereco
     document.getElementById("telefone").innerText = data.telefone
     document.getElementById("email").innerText = data.email
-};
+}
